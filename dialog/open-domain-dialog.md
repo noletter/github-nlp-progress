@@ -71,3 +71,17 @@
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Lifeng Shang, Zhengdong Lu, Hang Li. 2015. Neural Responding Machine for Short-Text Conversation. In ACL.
+
+### 6. 京东对话数据
+- <strong>数据集简介：</strong>
+
+    京东对话数据集是京东发布的用于评估基于知识的特定领域对话技术的标准数据集。数据主要来源是京东客服的对话。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 京东对话数据 | 100万session | 2019年 | Chen et al.  | 京东 | [链接](https://arxiv.org/abs/1911.09969) | [链接](https://jddc.jd.com) | [链接](https://jddc.jd.com) |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, Jingyan Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou. 2019. The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service. arXiv:1911.09969.
