@@ -85,3 +85,17 @@
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, Jingyan Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou. 2019. The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service. arXiv:1911.09969.
+
+### 7. 情感对话数据
+- <strong>数据集简介：</strong>
+
+    情感对话数据集是清华发布的用于评估面向情感的对话生成技术的标准数据集。数据主要来源是互联网的对话数据，并且添加了情感标签。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 情感对话数据 | 100万句对 | 2017年 | Zhou et al. | 清华 | [链接](https://arxiv.org/abs/1704.01074) | [链接](http://coai.cs.tsinghua.edu.cn/hml/challenge2017/) | NLPCC 2017 [链接](http://coai.cs.tsinghua.edu.cn/hml/challenge2017/) |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu. 2019. Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory. In AAAI.
