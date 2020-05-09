@@ -39,7 +39,21 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | 豆瓣多轮对话 | 100万session | 2017年 | Wu et al. | 北航／微软 | [链接](https://www.aclweb.org/anthology/P17-1046/) | [链接]（https://github.com/MarkWuNLP/MultiTurnResponseSelection） | 无 |
+    | 豆瓣多轮对话 | 100万session | 2017年 | Wu et al. | 北航／微软 | [链接](https://www.aclweb.org/anthology/P17-1046/) | [链接](https://github.com/MarkWuNLP/MultiTurnResponseSelection) | 无 |
 
 - <strong>基于该数据集发表的相关论文：</strong>
-    - Yu Wu, Wei Wu, Chen Xing, Ming Zhou, Zhoujun Li. "Sequential Matching Network: A New Archtechture for Multi-turn Response Selection in Retrieval-based Chatbots." ACL. 2017.
+    - Yu Wu, Wei Wu, Chen Xing, Ming Zhou, Zhoujun Li. 2017. Sequential Matching Network: A New Archtechture for Multi-turn Response Selection in Retrieval-based Chatbots. In ACL. 
+
+### 4. 豆瓣知识对话
+- <strong>数据集简介：</strong>
+
+    豆瓣知识对话数据集是计算所／京东联合发布的用于评估知识对话技术的标准数据集。数据主要来源是豆瓣社交网站上的问答以及知识相关的聊天数据。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 豆瓣知识对话 | 2万session | 2018年 | Liu et al.  | 计算所／京东 | [链接](https://www.aclweb.org/anthology/P17-1046/) | [链接](https://github.com/liushuman/neural-knowledge-diffusion) | 无 |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Shuman Liu, Hongshen Chen, Zhaochun Ren, Yang Feng, Qun Liu, Dawei Yin. 2018. Knowledge Diffusion for Neural Dialogue Generation. In ACL.
