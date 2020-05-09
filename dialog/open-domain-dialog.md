@@ -9,7 +9,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuConv | 3万session<br>约12万轮对话 | 2019年 | Wu et al. | 百度 | [链接](https://www.aclweb.org/anthology/P19-1369/) | [链接](https://ai.baidu.com/broad/download)| [2019 Language and Intelligence Challenge on Dialog](http://lic2019.ccf.org.cn/) |
+    | DuConv | 3万session <br> 约12万轮对话 | 2019年 | Wu et al. | 百度 | [链接](https://www.aclweb.org/anthology/P19-1369/) | [链接](https://ai.baidu.com/broad/download)| [2019 Language and Intelligence Challenge on Dialog](http://lic2019.ccf.org.cn/) |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Wenquan Wu, Zhen Guo, Xiangyang Zhou, Hua Wu, Xiyuan Zhang, Rongzhong Lian, and Haifeng Wang. 2019. Proactive human-machine conversation with explicit conversation goal. In ACL.
@@ -24,9 +24,22 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuRecDial | 1万session<br>16万句 | 2020年 | Liu et al. | 百度 | (待公开) | (待公开) | [2020 Language and Intelligence Challenge on Dialog](http://lic2020.cipsc.org.cn/) |
+    | DuRecDial | 1万session <br> 16万句 | 2020年 | Liu et al. | 百度 | (待公开) | (待公开) | [2020 Language and Intelligence Challenge on Dialog](http://lic2020.cipsc.org.cn/) |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Zeming Liu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che, Ting Liu. 2020. Towards Conversational Recommendation over Multi-Type Dialogs. In ACL.
     
     
+### 3. 豆瓣多轮对话
+- <strong>数据集简介：</strong>
+
+    豆瓣多轮对话数据集是北航／微软联合发布的用于评估闲聊对话技术的标准数据集。数据主要来源是豆瓣社交网站上的聊天数据。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 豆瓣多轮对话 | 100万session | 2017年 | Wu et al. | 北航／微软 | [链接](https://www.aclweb.org/anthology/P17-1046/) | [链接]（https://github.com/MarkWuNLP/MultiTurnResponseSelection） | 无 |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Yu Wu, Wei Wu, Chen Xing, Ming Zhou, Zhoujun Li. "Sequential Matching Network: A New Archtechture for Multi-turn Response Selection in Retrieval-based Chatbots." ACL. 2017.
