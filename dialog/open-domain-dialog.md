@@ -53,7 +53,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | 豆瓣知识对话 | 2万session | 2018年 | Liu et al.  | 计算所／京东 | [链接](https://www.aclweb.org/anthology/P17-1046/) | [链接](https://github.com/liushuman/neural-knowledge-diffusion) | 无 |
+    | 豆瓣知识对话 | 2万session | 2018年 | Liu et al.  | 计算所／京东 | [链接](https://www.aclweb.org/anthology/P18-1138/) | [链接](https://github.com/liushuman/neural-knowledge-diffusion) | 无 |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Shuman Liu, Hongshen Chen, Zhaochun Ren, Yang Feng, Qun Liu, Dawei Yin. 2018. Knowledge Diffusion for Neural Dialogue Generation. In ACL.
