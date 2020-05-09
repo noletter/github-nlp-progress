@@ -57,3 +57,17 @@
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Shuman Liu, Hongshen Chen, Zhaochun Ren, Yang Feng, Qun Liu, Dawei Yin. 2018. Knowledge Diffusion for Neural Dialogue Generation. In ACL.
+
+### 5. 微博对话
+- <strong>数据集简介：</strong>
+
+    微博对话数据集是华为发布的用于评估单轮闲聊对话技术的标准数据集。数据主要来源是微博社交网站上的对话。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 微博对话 | 400万单轮对话句对 | 2015年 | Shang et al.  | 计算所／京东 | [链接](https://www.aclweb.org/anthology/P15-1152/) | [链接](https://gist.github.com/AndrewShang/8a14e78f5eb03a0fb91248540041cc7d) | 无 |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Lifeng Shang, Zhengdong Lu, Hang Li. 2015. Neural Responding Machine for Short-Text Conversation. In ACL.
