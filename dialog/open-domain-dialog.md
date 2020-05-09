@@ -86,7 +86,7 @@
 - <strong>基于该数据集发表的相关论文：</strong>
     - Meng Chen, Ruixue Liu, Lei Shen, Shaozu Yuan, Jingyan Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou. 2019. The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service. arXiv:1911.09969.
 
-### 7. 情感对话数据
+### 7. 情感对话数据(Emotional Conversation Dataset (Chinese))
 - <strong>数据集简介：</strong>
 
     情感对话数据集是清华发布的用于评估面向情感的对话生成技术的标准数据集。数据主要来源是互联网的对话数据，并且添加了情感标签。
@@ -99,3 +99,45 @@
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu. 2019. Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory. In AAAI.
+    
+ ### 8. 基于句式的中文对话数据集 (Chinese Dialogue Dataset with Sentence Function )
+- <strong>数据集简介：</strong>
+
+    基于句式的中文对话数据集是清华发布的基于句式功能的对话生成技术的标准数据集。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 基于句式的中文对话数据集 | 200万句对 | 2018年 | Ke et al. | 清华 | [链接](https://www.aclweb.org/anthology/P18-1139/) | [链接](http://coai.cs.tsinghua.edu.cn/hml/dataset/) | 无 |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu. 2018. Generating Informative Responses with Controlled Sentence Function. In ACL. 
+
+### 9. 对话问题生成数据集 (Dialogue Question Generation Dataset (Chinese) )
+- <strong>数据集简介：</strong>
+
+    对话问题生成数据集是清华发布的面向对话的问题生成技术的标准数据集。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 对话问题生成数据集  | 50万句对 | 2018年 | Wang et al. | 清华 | [链接](https://www.aclweb.org/anthology/P18-1204/) | [链接](http://coai.cs.tsinghua.edu.cn/hml/dataset/) | 无 |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie.2018. Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders. In ACL. 
+
+### 10. 个性对话数据集 (Personality Assignment Dataset (Chinese) )
+- <strong>数据集简介：</strong>
+
+    个性对话数据集是清华发布的基于个性的对话技术的标准数据集。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 个性对话数据集 | 1000万微博句对 | 2018年 | Qian et al. | 清华 | [链接](https://arxiv.org/abs/1706.02861) | [链接](http://coai.cs.tsinghua.edu.cn/hml/dataset/) | 无 |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu. 2018. Assigning personality/identity to a chatting machine for coherent conversation generation. In IJCAI-ECAI.
