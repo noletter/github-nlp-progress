@@ -9,7 +9,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuKonv | 3万session<br>约12万轮对话 | 2019年 | Wu et al. | 百度 | [链接](https://www.aclweb.org/anthology/P19-1369/) | [链接](https://ai.baidu.com/broad/download)| [2019 Language and Intelligence Challenge on MRC](http://lic2019.ccf.org.cn/) |
+    | DuKonv | 3万session<br>约12万轮对话 | 2019年 | Wu et al. | 百度 | [链接](https://www.aclweb.org/anthology/P19-1369/) | [链接](https://ai.baidu.com/broad/download)| [2019 Language and Intelligence Challenge on Dialog](http://lic2019.ccf.org.cn/) |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Wenquan Wu, Zhen Guo, Xiangyang Zhou, Hua Wu, Xiyuan Zhang, Rongzhong Lian, and Haifeng Wang. 2019. Proactive human-machine conversation with explicit conversation goal. In ACL.
@@ -24,7 +24,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuRecDial | 1万session<br>16万句 | 2020年 | Liu et al. | 百度 | [链接](待公开) | [链接](待公开)| [2020 Language and Intelligence Challenge on MRC](http://lic2020.cipsc.org.cn/) |
+    | DuRecDial | 1万session<br>16万句 | 2020年 | Liu et al. | 百度 | [链接](待公开) | [链接](待公开)| [2020 Language and Intelligence Challenge on Dialog](http://lic2020.cipsc.org.cn/) |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Zeming Liu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che, Ting Liu. 2020. Towards Conversational Recommendation over Multi-Type Dialogs. In ACL.
