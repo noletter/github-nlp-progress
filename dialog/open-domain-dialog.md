@@ -1,15 +1,15 @@
 ## 闲聊类对话技术
 
-### 1. DuKonv
+### 1. DuConv
 - <strong>数据集简介：</strong>
 
-    DuKonv是百度发布的基于知识图谱的主动聊天任务数据集，让机器根据构建的知识图谱进行主动聊天，使机器具备模拟人类用语言进行信息传递的能力。数据集的创新性是：强调了bot的主动性，并且在闲聊对话中引入了明确的对话目标，即将对话引导到特定实体上。数据中的知识信息来源于电影和娱乐人物领域有聊天价值的知识信息，如票房、导演、评价等，以三元组SPO的形式组织，对话目标中的话题为电影或娱乐人物实体。数据集中共有3万session，约12万轮对话，其中10万训练集，1万开发集，1万测试集。
+    DuConv是百度发布的基于知识图谱的主动聊天任务数据集，让机器根据构建的知识图谱进行主动聊天，使机器具备模拟人类用语言进行信息传递的能力。数据集的创新性是：强调了bot的主动性，并且在闲聊对话中引入了明确的对话目标，即将对话引导到特定实体上。数据中的知识信息来源于电影和娱乐人物领域有聊天价值的知识信息，如票房、导演、评价等，以三元组SPO的形式组织，对话目标中的话题为电影或娱乐人物实体。数据集中共有3万session，约12万轮对话，其中10万训练集，1万开发集，1万测试集。
 
 - <strong>数据集详情：</strong>
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | DuKonv | 3万session<br>约12万轮对话 | 2019年 | Wu et al. | 百度 | [链接](https://www.aclweb.org/anthology/P19-1369/) | [链接](https://ai.baidu.com/broad/download)| [2019 Language and Intelligence Challenge on Dialog](http://lic2019.ccf.org.cn/) |
+    | DuConv | 3万session<br>约12万轮对话 | 2019年 | Wu et al. | 百度 | [链接](https://www.aclweb.org/anthology/P19-1369/) | [链接](https://ai.baidu.com/broad/download)| [2019 Language and Intelligence Challenge on Dialog](http://lic2019.ccf.org.cn/) |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Wenquan Wu, Zhen Guo, Xiangyang Zhou, Hua Wu, Xiyuan Zhang, Rongzhong Lian, and Haifeng Wang. 2019. Proactive human-machine conversation with explicit conversation goal. In ACL.
