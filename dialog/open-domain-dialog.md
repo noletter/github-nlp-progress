@@ -141,3 +141,17 @@
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Qiao Qian, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu. 2018. Assigning personality/identity to a chatting machine for coherent conversation generation. In IJCAI-ECAI.
+    
+### 11. 中文知识对话数据集 kdConv
+- <strong>数据集简介：</strong>
+
+    为了进一步推动多领域的知识驱动的多轮对话研究并且弥补中文语料的缺乏，清华对话组提出了一个中文的多领域的知识驱动的对话数据集KdConv (Knowledge-driven Conversation)，其使用知识图谱为多轮对话中使用的知识进行标注。该数据集包含了来自三个领域（电影、音乐和旅游）的4.5K个对话，86K个句子，平均轮数为19.0。这些对话包含了相关话题的深度讨论，以及多个话题之间的自然过渡。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 个性对话数据集 | 4.5k多轮对话session | 2020年 | Zhou et al. | 清华 | [链接](https://arxiv.org/abs/2004.04100) | [链接](https://github.com/thu-coai/KdConv) | 无 |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Hao Zhou, Chujie Zheng, Kaili Huang, Minlie Huang, Xiaoyan Zhu. 2020. KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. In ACL.
