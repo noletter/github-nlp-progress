@@ -67,7 +67,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | 微博对话 | 400万单轮对话句对 | 2015年 | Shang et al.  | 计算所／京东 | [链接](https://www.aclweb.org/anthology/P15-1152/) | [链接](https://gist.github.com/AndrewShang/8a14e78f5eb03a0fb91248540041cc7d) | 无 |
+    | 微博对话 | 400万单轮对话句对 | 2015年 | Shang et al.  | 华为 | [链接](https://www.aclweb.org/anthology/P15-1152/) | [链接](https://gist.github.com/AndrewShang/8a14e78f5eb03a0fb91248540041cc7d) | 无 |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Lifeng Shang, Zhengdong Lu, Hang Li. 2015. Neural Responding Machine for Short-Text Conversation. In ACL.
