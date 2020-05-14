@@ -18,7 +18,7 @@
     - Chen X , Xipeng Qiu∗,  Zhu C , et al. Long Short-Term Memory Neural Networks for Chinese Word Segmentation[C]// Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing. 2015.
     Cai D ,  Zhao H . Neural Word Segmentation Learning for Chinese[J].  2016.
     - Chen X ,  Shi Z ,  Qiu X , et al. Adversarial Multi-Criteria Learning for Chinese Word Segmentation[J].  2017.
-    - Jie Yang, Yue Zhang, Fei Dong. Neural Word Segmentation with Rich Pretsraining[C]// The 55th Annual Meeting of the Association for Computational Linguistics (ACL). 2017.
+    - Jie Yang, Yue Zhang, Fei Dong. Neural Word Segmentation with Rich Pretraining[C]// The 55th Annual Meeting of the Association for Computational Linguistics (ACL). 2017.
     - Yang, Jie, Yue Zhang, and Shuailong Liang. "Subword encoding in lattice lstm for chinese word segmentation." *arXiv preprint arXiv:1810.12594* (2018).
     - Ma J ,  Ganchev K ,  Weiss D . State-of-the-art Chinese Word Segmentation with Bi-LSTMs[J].  2018.
     - Huang W ,  Cheng X ,  Chen K , et al. Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning[J].  2019.
