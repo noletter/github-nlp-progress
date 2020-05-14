@@ -3,7 +3,9 @@
 ## 中文NLP开源数据集
 
 ### 词法分析
-- [词法分词](lexical-analysis/lexical-analysis.md)
+- [分词](lexical-analysis/word-segment.md)
+- [词性标注](lexical-analysis/part-of-speech-tagging.md)
+- [命名实体](lexical-analysis/name-entity-recognition.md)
 ### 句法分析
 - [依存句法](dependency-parsing/dependency-parsing.md)
 ### 语义解析
