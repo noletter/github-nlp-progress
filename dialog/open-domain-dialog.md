@@ -155,3 +155,17 @@
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Hao Zhou, Chujie Zheng, Kaili Huang, Minlie Huang, Xiaoyan Zhu. 2020. KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. In ACL.
+
+### 12.  检索辅助生成对话数据集 
+- <strong>数据集简介：</strong>
+
+    腾讯发布的单轮对话数据，其中每个句对带有通过检索系统得到的top 10回复，用于辅助训练生成模型。
+
+- <strong>数据集详情：</strong>
+
+    |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
+    | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
+    | 检索辅助生成对话数据集 | 55万单轮对话session | 2019年 | Cai et al. | 腾讯 | [链接](https://ai.tencent.com/ailab/nlp/dialogue/papers/EMNLP2019_cd.pdf) | [链接](https://github.com/jcyk/seqgen) | 无 |
+
+- <strong>基于该数据集发表的相关论文：</strong>
+    - Deng Cai, Yan Wang, Wei Bi, Zhaopeng Tu, Xiaojiang Liu, Shuming Shi. 2019. Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. In EMNLP.
