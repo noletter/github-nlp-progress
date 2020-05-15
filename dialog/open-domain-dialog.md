@@ -165,7 +165,7 @@
 
     |  名称 | 规模 | 创建日期 | 作者 | 单位 | 论文 | 下载 | 评测 |
     | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: |
-    | 检索辅助生成对话数据集 | 55万单轮对话 | 2019年 | Cai et al. | 腾讯 | [链接](https://ai.tencent.com/ailab/nlp/dialogue/papers/EMNLP2019_cd.pdf) | [链接](https://github.com/jcyk/seqgen) | 无 |
+    | 检索辅助生成对话数据集 | 550万单轮对话 | 2019年 | Cai et al. | 腾讯 | [链接](https://ai.tencent.com/ailab/nlp/dialogue/papers/EMNLP2019_cd.pdf) | [链接](https://github.com/jcyk/seqgen) | 无 |
 
 - <strong>基于该数据集发表的相关论文：</strong>
     - Deng Cai, Yan Wang, Wei Bi, Zhaopeng Tu, Xiaojiang Liu, Shuming Shi. 2019. Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework. In EMNLP.
