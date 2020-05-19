@@ -3,16 +3,31 @@
 ## 中文NLP开源数据集
 
 ### 词法分析
+
+* [ ] 数据集
 - [分词](lexical-analysis/word-segment.md)
 - [词性标注](lexical-analysis/part-of-speech-tagging.md)
 - [命名实体](lexical-analysis/name-entity-recognition.md)
+* [ ] 榜单
+- [文本情感分析榜单](http://bjyz-ai.epc.baidu.com/aistudio/competition/detail/33)
+
 ### 句法分析
+* [ ] 数据集
 - [依存句法](dependency-parsing/dependency-parsing.md)
+* [ ] 榜单
+- [句法分析榜单](http://bjyz-ai.epc.baidu.com/aistudio/competition/detail/33)
 ### 语义解析
+* [ ] 数据集
 - [Text-to-SQL](semantic-parsing/semantic-parsing.md)
+* [ ] 榜单
+- [句法分析榜单](http://bjyz-ai.epc.baidu.com/aistudio/competition/detail/33)
 ### 文本分类
+* [ ] 数据集
 - [文本分类](text-classification/text-classification.md)
+* [ ] 榜单
+- [文本分类榜单](http://bjyz-ai.epc.baidu.com/aistudio/competition/detail/33)
 ### 文本相似度
+* [ ] 数据集
 - [文本相似度](text-similarity/text-similarity.md)
 ### 情感分析
 - [句子级情感分类](sentiment-analysis/sentiment-classification.md)
